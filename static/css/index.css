@@ -5,5 +5,51 @@
 }
 
 #navigation {
-    height:30%;
+    height:20%;
+}
+
+#navigation_list li {
+    display:inline;
+}
+
+.nav-item {
+    float:right;
+    margin:1%;
+}
+#services-header {
+    background-color:navy;
+}
+#services-header h1 {
+   text-align:center;
+}
+
+#design{
+    height:500px;
+    background-image:url('../img/pencils.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
+}
+
+#data-science{
+    color:white;
+    height:500px;
+    background-image:url('../img/data.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
+}
+
+#web-apps-img{
+    color:white;
+    height:500px;
+    background-image:url('../img/app.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
+}
+
+#browser-opt-img{
+    color:white;
+    height:500px;
+    background-image:url('../img/browser.png');
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
 }
